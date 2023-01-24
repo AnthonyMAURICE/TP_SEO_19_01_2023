@@ -1026,6 +1026,11 @@ h4 {
         width: 180px;
         height: 320px;
     }
+    /* pour masquer les images en lieu et place de texte sur les basses résolutions
+    .services-img{
+        display: none;
+    }
+    */
 }
 
 @media (max-width: 400px) {
