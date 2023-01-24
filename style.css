@@ -715,6 +715,10 @@ h2 {
     line-height: 1.4em;
 }
 
+.under-title{
+    color: #ffb593!important;
+}
+
 .col-sm-4 h2 {
     font-size: 20px;
     text-transform: uppercase;
@@ -724,6 +728,19 @@ h2 {
 
 .col-sm-4 p{
     font-size: 14px;
+}
+
+.col-sm-12 p{
+    font-size: 20px;
+}
+
+.slogan{
+    text-align: center;
+    color: #ffb593!important;
+}
+
+.border{
+    border-bottom: 1px solid #ffb593;
 }
 
 .med-width-whitespace {
